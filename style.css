@@ -1,0 +1,50 @@
+* {
+     margin: 0;
+     padding: 0;
+}
+
+body{
+    background-image: url("images/nature_background_14_212124.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.main{
+    width: 400px;
+     margin: 100px 300px 50px 400px;
+    
+}
+.register{
+    background-color:rgba(0,0,0,0.5);
+    padding-left: 30px;
+    color:white;
+    font-family: sans-serif;
+    
+}
+b{
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    
+    font-family: sans-serif;
+}
+input[type="text"]
+{
+border-radius: 5px;
+color: rgb(131, 107, 107);
+border-color: white;
+border: 1x solid;
+}
+
+
+button{
+    border-radius: 5px;
+    width: 40%;
+    background-color:indigo;
+    border:1px solid;
+    padding:5px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+
+}
